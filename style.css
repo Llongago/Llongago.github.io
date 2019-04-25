@@ -4,6 +4,7 @@ html {
     /* Google fonts 输出的 CSS */
     font-family: 'Open Sans', sans-serif; 
     background-color: #00539f;
+    text-align:center;
   }
   body{
       width: 600px;
@@ -29,7 +30,4 @@ img{
     display: block;
     margin: 0 auto;
     width: 500px;
-}
-button{
-    text-align:center;
 }
