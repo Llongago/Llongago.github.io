@@ -26,6 +26,7 @@ html {
       line-height: 2;
       letter-spacing: 1px;
       list-style-type:none;
+      margin:0 auto;
   }
 img{
     display: block;
