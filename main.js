@@ -2,10 +2,10 @@ let myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/myimage.jpg') {
-      myImage.setAttribute('src', 'images/myimage2.jpg');
+    if(mySrc === 'myimage.jpg') {
+      myImage.setAttribute('src', 'myimage2.jpg');
     } else {
-      myImage.setAttribute('src', 'images/myimage.jpg');
+      myImage.setAttribute('src', 'myimage.jpg');
     }
 }
 function setHeading(name){
